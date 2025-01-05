@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <table width="100%">
+        <tr>
+            <!--Row 1-->
+            <td align="center">
+                <img src="profile.jpg" width="100px" height="120px" alt="Profile Picture">
+            </td>
+            <td>
+                <b><font size="6" >Ashiqur Rahman</font></b>
+                <br>
+                <i><font size="4" > Full Stack Web Developer</font></i>
+
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr></td>
+        </tr>
+        <tr>
+            <!--Row 2-->
+            <td width="25%">
+                <h3>CONTACT</h3>
+                ashike820@gmail.com<br>
+                +88 01625760253 <br>
+                Dhaka, BAngladesh<br>
+                <a href="https://www.linkedin.com/in/ashiqur-rahman-a188b7199/" target="_blank">LinkedIn</a><br>
+                <a href="#">GitHub</a>
+
+                <h3>EDUCATION</h3>
+                <b>Bacholor of Science</b><br>
+                Computer Science and Engineering, AIUB<br>
+                2019 - 2023 <br>
+                CGPA: 3.79
+
+                <h3>Skills</h3>
+                <ul>
+                    <li>Python</li>
+                    <li>Django</li>
+                    <li>SQL</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                </ul>
+            </td>
+            <td valign="top">
+                <h3>WORK EXPERIENCE</h3>
+                <b>Software Developer</b><br>
+                Telerad Medical Systems Ltd.,Dhaka,Bangladesh <br>
+                08/2023 - Present<br>
+                <ul>
+                    <li>Develop Hospital Management Systems ERP Software using Oracle apex 19c</li>
+                    <li>Implement responsive web design using HTML5,CSS3 and SQL </li>
+                    <li>Review Codes to improve code quality and maintainability </li>
+                    
+                </ul>
+                <h3>PROJECT</h3>
+                <b>Hospital Management System</b>
+                <ul>
+                    <li>Commission System Implement</li>
+                    <li>Health Card system </li>
+                    <li>Auto Reagent add</li>
+                </ul>
+
+                <b>Real estate Management System</b>
+                <ul>
+                    <li>Commission System Implement</li>
+                    <li>Health Card system </li>
+                    <li>Auto Reagent add</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
